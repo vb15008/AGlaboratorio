@@ -1,4 +1,5 @@
 //VB15008 UES
+//40% del laboratorio
 #include <GL/gl.h>
 #include <GL/glut.h>
 void display(void)
