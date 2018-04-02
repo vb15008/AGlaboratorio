@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/5_tangente/tangente.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+

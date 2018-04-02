@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/tangente.dir/tangente.cpp.o  -o tangente -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

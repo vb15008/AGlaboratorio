@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/furier.dir/furier.cpp.o  -o furier -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

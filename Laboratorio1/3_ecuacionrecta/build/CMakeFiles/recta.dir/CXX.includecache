@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/3_ecuacionrecta/recta.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+

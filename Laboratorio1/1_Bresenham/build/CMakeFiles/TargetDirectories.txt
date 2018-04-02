@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/1_Bresenham/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/1_Bresenham/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/1_Bresenham/build/CMakeFiles/brese.dir

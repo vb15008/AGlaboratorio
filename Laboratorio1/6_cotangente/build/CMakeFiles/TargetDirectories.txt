@@ -1,0 +1,3 @@
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/6_cotangente/build/CMakeFiles/rebuild_cache.dir
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/6_cotangente/build/CMakeFiles/edit_cache.dir
+/home/aldo/PrgramasOpenGL/AGlaboratorio/Laboratorio1/6_cotangente/build/CMakeFiles/cotangente.dir

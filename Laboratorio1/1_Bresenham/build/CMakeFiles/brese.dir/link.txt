@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/brese.dir/bresenham.cpp.o  -o brese -rdynamic -lGLU -lGL -lglut -lXmu -lXi 
